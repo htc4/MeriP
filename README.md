@@ -1,1 +1,5 @@
 # MeriP
+## Usige
+```
+git clone 
+```
