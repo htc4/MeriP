@@ -4,12 +4,6 @@
 ├── Aboutus
 │   ├── Aboutus.html
 │   ├── Aboutus.css
-│  
-│
-├── Home
-│   ├── home.html
-│   ├── home.css
-│   └── home.js
 │
 ├── Signin
 │   ├── signin.html
@@ -21,7 +15,7 @@
 │   ├── image_1.png
 │   ├── image_2.png
 │   ├── ...
-│   └── image_9.png
+│   └── image_15.png
 │
 ├── Signup
 │   ├── signup.html
@@ -29,4 +23,5 @@
 │   └── signup.js
 │
 ├── index.html
-└── istlye.css
+├── index.js
+└── stlye.css
