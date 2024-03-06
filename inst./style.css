@@ -11,8 +11,12 @@
     box-sizing: border-box;
 
 }
+.active_bar{
+    color: #000000;
+    text-decoration: underline;
+}
 body{
-    background-image: url("../images/background4.jpg");
+    background-image: url("./images/background4.jpg");
 }
 .navbar{
     height:12%;
@@ -24,7 +28,7 @@ body{
     width: 260px;
     height: 70px;
    cursor: pointer; 
-   background-image: url("../images/logo.png");
+   background-image: url("./images/logo.png");
 }
 nav{
     flex: 1;
@@ -39,6 +43,13 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: #000000;
+    font-size: 20px;
+    font-style: bold;
+}
+nav ul li a:hover{
+    text-decoration: none;
+    /* color: #043250; */
+    background-color: #abb6c0;
     font-size: 20px;
     font-style: bold;
 }
@@ -60,29 +71,29 @@ p{
     line-height: 15px;
 }
 .card{
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     display: inline-block;
     border-radius: 10px;
     padding: 15px 25px;
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url("../images/logo.png");
+    background-image: url("./images/logo.png");
     background-position: center;
     background-size: cover ;
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url("../images/photo_5314689143521006934_y.jpg");
+    background-image: url("./images/photo_5314689143521006934_y.jpg");
 }
 .card2{
-    background-image: url("../images/photo_5314689143521006932_y.jpg");
+    background-image: url("./images/photo_5314689143521006932_y.jpg");
 }
 .card3{
-    background-image: url("../images/photo_5314689143521006930_y.jpg");}
+    background-image: url("./images/photo_5314689143521006930_y.jpg");}
 .card4{
-    background-image: url("../images/photo_5314689143521006931_y.jpg");
+    background-image: url("./images/photo_5314689143521006931_y.jpg");
 }
 .card:hover{
     transform: translateY(-10px);
