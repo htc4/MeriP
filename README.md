@@ -1,28 +1,47 @@
-```# MeiP
-## Usige
+```# MeryP
+## Usage
 
-├── Aboutus
+├── About Us
 │   ├── Aboutus.html
 │   ├── Aboutus.css
-│
-├── Signin
+
+├── Sign In
 │   ├── signin.html
 │   ├── signin.css
 │   └── signin.js
-│
-├── Image
-│   ├── background_3.png
-│   ├── image_1.png
-│   ├── image_2.png
-│   ├── ...
-│   └── image_15.png
-│
-├── Signup
+
+├── Sign Up
 │   ├── signup.html
 │   ├── signup.css
 │   └── signup.js
-│
-├── index.html
-├── index.js
-└── stlye.css
+
+├── For Men
+│   ├── man.html
+│   ├── man.css
+│   └── man.js
+
+├── For Women
+│   ├── woman.html
+│   ├── woman.css
+│   └── woman.js
+
+├── Bag
+│   ├── bag.html
+│   ├── bag.css
+│   └── bag.js
+
+├── Jewellery
+│   ├── jewellery.html
+│   ├── jewellery.css
+│   └── jewellery.js
+
+├── Image
+│   ├── image1
+│   ├── ...
+│   └── image40
+
+├── Index
+│   ├── index.html
+│   ├── index.css
+│   └── index.js
 ```
