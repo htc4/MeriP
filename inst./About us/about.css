@@ -50,11 +50,17 @@ h1 {
 }
 
 .aboutus_img1 {
-  width: 200px;
+ /*  width: 200px;
   height: auto;
-  /* margin-right: 90%;
+  margin-right: 90%;
   margin-top: 5%; */
-}
+  loat: left;
+    width:  200px;
+    height: 380px;
+    object-fit: cover;
+    margin-right: 90%;
+    margin-top: 5%;
+} 
 
 .aboutus_img2 {
   width: 200px;
