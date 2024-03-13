@@ -44,4 +44,15 @@
 │   ├── index.html
 │   ├── index.css
 │   └── index.js
+
+
 ```
+
+
+## Dependencies and Versions
+
+| Dependency         | Version     |
+|--------------------|-------------|
+| HTML               |       5     |
+| CSS                |       3     |
+| JavaScript         |       5     |
